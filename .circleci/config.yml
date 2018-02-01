@@ -6,9 +6,9 @@ image_config: &image_config
 
   # [01] Change this number to force a fresh commit.
 
-  IMAGE_NAME: CircleCIDockerWizardTest
+  IMAGE_NAME: circlecidockerwizardtest
 
-  IMAGE_TAG: Master
+  IMAGE_TAG: master
 
   # NOTE: if you're modifying this config.yml file manually
   # rather than using the included setup script,
