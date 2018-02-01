@@ -4,6 +4,8 @@ image_config: &image_config
   # either as project-specific environment variables
   # or as resources in your organization's org-global Context
 
+  # [00] Change this number to force a fresh commit.
+
   IMAGE_NAME: CircleCIDockerWizardTest
 
   IMAGE_TAG: Master
